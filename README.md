@@ -42,3 +42,11 @@ contract PupperCoin is ERC20, ERC20Detailed, ERC20Mintable {
         // constructor can stay empty
     }
 }
+
+
+
+![image](https://user-images.githubusercontent.com/78707082/127590809-48ff9594-2e57-4a15-b51f-41348f88a226.png)
+![image](https://user-images.githubusercontent.com/78707082/127591025-b33382f9-76b6-45ee-8005-54f945411e33.png)
+
+
+0x8DaCdBf891A1E099d68E602fFaa5C93e66731947
